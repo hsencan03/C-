@@ -1,0 +1,6 @@
+D:\C#\KaanYilan\SnakeProject\SnakeProject\bin\Debug\SnakeProject.exe.config
+D:\C#\KaanYilan\SnakeProject\SnakeProject\bin\Debug\SnakeProject.exe
+D:\C#\KaanYilan\SnakeProject\SnakeProject\bin\Debug\SnakeProject.pdb
+D:\C#\KaanYilan\SnakeProject\SnakeProject\obj\Debug\SnakeProject.csproj.CoreCompileInputs.cache
+D:\C#\KaanYilan\SnakeProject\SnakeProject\obj\Debug\SnakeProject.exe
+D:\C#\KaanYilan\SnakeProject\SnakeProject\obj\Debug\SnakeProject.pdb
