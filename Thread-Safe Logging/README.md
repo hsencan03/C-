@@ -1,0 +1,1 @@
+Simple Thread-Safe Logging in C++ 
