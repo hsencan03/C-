@@ -61,7 +61,7 @@ private:
 				m_cv.wait(lock, [&]() {return !iQue.empty(); });
 				
 				Info *temp = iQue.front();
-				file << (*iQue.front());
+				file << (*temp);
 				iQue.pop();
 				delete temp;
 				std::cout << "DONE\n";
